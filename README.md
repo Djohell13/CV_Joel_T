@@ -1,12 +1,12 @@
-<style>
-  header ul { display: none !important; }
-</style>
-
 # 🚀 Joël TERMONDJIAN
 ### **Data Analytics Engineer | Expert Banque & Finance**
 
 📍 **Arles (13)** | 📞 **06 33 64 12 96** | ✉️ [joel.termondjian@hotmail.com](mailto:joel.termondjian@hotmail.com)  
 🔗 [**LinkedIn**](https://www.linkedin.com/in/joel-termondjian/) | 🐙 [**GitHub**](https://github.com/Djohell13)
+
+<style>
+  header ul { display: none !important; }
+</style>
 
 ---
 
