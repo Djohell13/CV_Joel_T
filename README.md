@@ -1,3 +1,7 @@
+<style>
+  header ul { display: none !important; }
+</style>
+
 # 🚀 Joël TERMONDJIAN
 ### **Data Analytics Engineer | Expert Banque & Finance**
 
