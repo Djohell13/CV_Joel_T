@@ -7,4 +7,5 @@ plugins:
   - jekyll-seo-tag
 
 SEO_email: "joel.termondjian@hotmail.com"
-show_downloads: false                    
+show_downloads: false
+google_analytics:
