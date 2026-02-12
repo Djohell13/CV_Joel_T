@@ -48,7 +48,7 @@
 
 * **Objectif métier :** Estimer le risque de défaillance à **1, 2 et 3 ans** (Time-to-Event) pour améliorer le scoring de crédit et l’anticipation du risque client sans données comptables récentes.
 * **Approche technique :** Survival Analysis avec **XGBoost Cox Model**, feature engineering sur l'historique démographique et sectoriel, optimisation des hyperparamètres via **Optuna**.
-* **Résultat :** Détermination d'un score de survie dynamique permettant de hiérarchiser le risque de défaillance avec un horizon temporel précis.
+* **Résultat :** Modèle performant avec un **C-index de 0.749**. Détermination d'un score de survie dynamique permettant de hiérarchiser le risque de défaillance avec un horizon temporel précis.
 
 ---
 
