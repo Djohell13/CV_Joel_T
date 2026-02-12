@@ -1,11 +1,10 @@
 title: "Joel TERMONDJIAN"
-description: "Data Analytics Engineer | 20 ans d’expérience en banque, aujourd’hui au croisement de la data et du business. J’analyse, structure et automatise les données pour éclairer la prise de décision. Conception de solutions data (analyse, automatisation, modèles), je transforme les données brutes en outils décisionnels à forte valeur métier."
+description: "Data Analytics Engineer | 20 ans d’expérience en banque..."
 theme: jekyll-theme-minimal
 logo: "assets/Photo 1.jpg"
-
 plugins:
   - jekyll-seo-tag
-
 SEO_email: "joel.termondjian@hotmail.com"
 show_downloads: false
-google_analytics:
+github:
+  is_project_page: false
