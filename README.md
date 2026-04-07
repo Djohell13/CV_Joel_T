@@ -1,5 +1,5 @@
 # 🚀 Joël TERMONDJIAN
-### **Data Analytics Engineer | Expert Banque & Finance**
+### **Data Scientist | Expert Banque & Finance**
 
 📍 **Arles (13)** | 📞 **06 33 64 12 96** | ✉️ [joel.termondjian@hotmail.com](mailto:joel.termondjian@hotmail.com)  
 🔗 [**LinkedIn**](https://www.linkedin.com/in/joel-termondjian/) | 🐙 [**GitHub**](https://github.com/Djohell13)
@@ -12,7 +12,7 @@
 
 ## 💼 Expérience Professionnelle
 
-### **Data Analytics Engineer - Freelance** | *2026 - Présent*
+### **Data Scientist - Freelance** | *2026 - Présent*
 * Accompagnement des entreprises dans l'exploitation de leurs données : automatisation, modélisation prédictive et dashboards d'aide à la décision.
 
 ### **La Banque Postale** | *2006 - 2025*
