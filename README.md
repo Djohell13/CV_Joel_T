@@ -6,7 +6,7 @@
 
 ---
 
-> **Expertise :** 20 ans d’expérience bancaire miss au service de la Data. Spécialiste de la conception de **pipelines automatisés** et de **modèles prédictifs** (Scoring, Risque, KYC). Je transforme les flux de données brutes en leviers décisionnels stratégiques à forte valeur métier.
+> **Expertise :** 20 ans d’expérience bancaire mise au service de la Data. Spécialiste de la conception de **pipelines automatisés** et de **modèles prédictifs** (Scoring, Risque, KYC). Je transforme les flux de données brutes en leviers décisionnels stratégiques à forte valeur métier.
 
 **────────────────────────────────────────────────────────────────────────**
 
@@ -52,15 +52,6 @@
 
 ---
 
-### 💵 **Détection de fraude automatisée (FinTech)**
-🔗 [**Voir le projet**](https://huggingface.co/spaces/Djohell/Dashboard-fraud-detection)
-
-* **Objectif métier :** Détecter en temps réel les fraudes sur les paiements par carte bancaire et alerter les analystes via un système automatisé.
-* **Approche technique :** Analyse exploratoire (EDA) des flux transactionnels, modélisation avec **XGBoost**, suivi des expériences via **MLflow** et orchestration du pipeline d'alerte par **Airflow**.
-* **Résultat :** Tableau de bord opérationnel (Streamlit) et envoi quotidien automatisé d'un rapport listant les fraudes détectées à J-1.
-
----
-
 ### 🔥 **Prévision du risque incendie - Survival Analysis (SDIS)**
 🔗 [**Voir le projet**](https://projet-feux.streamlit.app/)
 
@@ -69,13 +60,6 @@
 * **Résultat :** Modèle performant avec un **C-index à 0.809** et dashboard de visualisation du risque sur 5 horizons temporels.
 
 ---
-
-### 🚗 **Étude d’impact & Pricing Engine - Get Around**
-🔗 [**Voir le projet**](https://huggingface.co/spaces/Djohell/get_around_dashboard)
-
-* **Objectif métier :** Optimisation des revenus et réduction des frictions opérationnelles liées aux retards de location.
-* **Approche technique :** Simulation d'impact financier (Trade-off) et régression pour la prédiction de prix (Pricing Engine) via **FastAPI**.
-* **Résultat :** Modèle avec un **R2 à 0.771** et identification du seuil de rentabilité optimal pour le délai de sécurité entre deux réservations.
 
 **────────────────────────────────────────────────────────────────────────**
 
