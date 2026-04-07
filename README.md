@@ -6,7 +6,7 @@
 
 ---
 
-> **Expertise :** 20 ans d’expérience bancaire mis au service de la Data. Spécialiste de la conception de **pipelines automatisés** et de **modèles prédictifs** (Scoring, Risque, KYC). Je transforme les flux de données brutes en leviers décisionnels stratégiques à forte valeur métier.
+> **Expertise :** 20 ans d’expérience bancaire miss au service de la Data. Spécialiste de la conception de **pipelines automatisés** et de **modèles prédictifs** (Scoring, Risque, KYC). Je transforme les flux de données brutes en leviers décisionnels stratégiques à forte valeur métier.
 
 **────────────────────────────────────────────────────────────────────────**
 
@@ -34,9 +34,9 @@
 
 ## 🛠 Compétences Techniques
 
-* **Data Engineering & MLOps :** Python, SQL, Spark, **Airflow**, **Docker**, **MLflow**, **API REST (FastAPI)**.
 * **Machine Learning & Stats :** **XGBoost**, Scikit-learn, **Survival Analysis** (Cox Model), **Time-to-Event**, Clustering (KMeans, DBSCAN), **Optuna**.
 * **Data Architecture :** Pipelines ETL, Cloud (**AWS S3**), Hugging Face Spaces, **Streamlit**.
+* **Data Engineering & MLOps :** Python, SQL, Spark, **Airflow**, **Docker**, **MLflow**, **API REST (FastAPI)**.
 * **Bases de données :** MySQL, MongoDB.
 
 **────────────────────────────────────────────────────────────────────────**
@@ -46,7 +46,7 @@
 ### 📊 **Santé Économique : Modélisation du Risque de Défaillance (FinTech)**
 🔗 [**Voir le projet**](https://huggingface.co/spaces/Djohell/business-risk)
 
-* **Objectif métier :** Estimer le risque de défaillance à **1, 2 et 3 ans** (Time-to-Event) pour améliorer le scoring de crédit et l’anticipation du risque client sans données comptables récentes.
+* **Objectif métier :** Estimer le risque de défaillance à **1, 2 et 3 ans** (Time-to-Event) pour améliorer le scoring de crédit et l’anticipation du risque client.
 * **Approche technique :** Survival Analysis avec **XGBoost Cox Model**, feature engineering sur l'historique démographique et sectoriel, optimisation des hyperparamètres via **Optuna**.
 * **Résultat :** Modèle performant avec un **C-index de 0.749**. Détermination d'un score de survie dynamique permettant de hiérarchiser le risque de défaillance avec un horizon temporel précis.
 
